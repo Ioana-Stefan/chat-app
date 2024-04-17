@@ -4,7 +4,7 @@ This project is a real-time text chat application implemented with Express.js, R
 
 ## Description
 
-This application serves as a basic understanding of real-time event driven concepts of Node with the help of Socket.IO. It is a text chatting application designed to register, authenticate, and facilitate instant connections and communication between users.
+This application serves as a basic understanding of real-time event driven concepts of Node with the help of Socket.IO. It is a text chatting application designed to register, authenticate, and facilitate instant connections and communication between users. Some of the features include custom authentication, message notification, chat history and online users.
 
 ## Technologies Used
 
