@@ -79,6 +79,10 @@ If the command was successful, you can start the application. By default, you ca
 npm start
 ```
 
+## Showcase
+
+Please look into the showcase folder for images regarding the client presentation.
+
 ## Implementation details and thoughts
 
 On the frontend, I tried to use multiple state management solutions. Due to the small size of the project, I thought that the useContext built into React would be adequate for managing authentication. I also wanted a global state that manages individual conversations and messages, just to experiment with other options than useContext. I decided to go with Zustand, which I found to be very easy to start with and use. It is not as big and feature-rich as Redux, but it takes out a lot of the boilerplate and complexity of use. If you are looking for a more complete state management solution than Zustand I recommend looking into Jotai.
